@@ -1,0 +1,20 @@
+/* Theme Name: BMPA Theme
+Author: Bruce
+Version: 1.0
+*/
+
+/* *,
+:after,
+:before {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  background-color: white;
+}
+
+body {
+  box-sizing: inherit;
+  padding: 0;
+  scroll-behavior: smooth;
+} */
