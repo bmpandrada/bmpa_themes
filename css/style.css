@@ -3,7 +3,7 @@
 @import "../node_modules/@glidejs/glide/dist/css/glide.core.min.css";
 /* SASS and Global'ish Stuff */
 body {
-  color: #333;
+  color: black;
   font-family: "Roboto", sans-serif;
   overflow-x: hidden;
   position: relative;
